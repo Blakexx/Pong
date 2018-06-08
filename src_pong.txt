@@ -1,0 +1,16 @@
+H:\Labs\lab20_inherit_newLabs_11s\set2_pong_project\Ball.java
+H:\Labs\lab20_inherit_newLabs_11s\set2_pong_project\BallTestOne.java
+H:\Labs\lab20_inherit_newLabs_11s\set2_pong_project\BallTestTwo.java
+H:\Labs\lab20_inherit_newLabs_11s\set2_pong_project\BlinkyBall.java
+H:\Labs\lab20_inherit_newLabs_11s\set2_pong_project\Block.java
+H:\Labs\lab20_inherit_newLabs_11s\set2_pong_project\BlockTestOne.java
+H:\Labs\lab20_inherit_newLabs_11s\set2_pong_project\BlockTestTwo.java
+H:\Labs\lab20_inherit_newLabs_11s\set2_pong_project\Collidable.java
+H:\Labs\lab20_inherit_newLabs_11s\set2_pong_project\Locatable.java
+H:\Labs\lab20_inherit_newLabs_11s\set2_pong_project\Paddle.java
+H:\Labs\lab20_inherit_newLabs_11s\set2_pong_project\PaddleTestOne.java
+H:\Labs\lab20_inherit_newLabs_11s\set2_pong_project\PaddleTestTwo.java
+H:\Labs\lab20_inherit_newLabs_11s\set2_pong_project\Pong.java
+H:\Labs\lab20_inherit_newLabs_11s\set2_pong_project\SpeedUpBall.java
+H:\Labs\lab20_inherit_newLabs_11s\set2_pong_project\Tester.java
+H:\Labs\lab20_inherit_newLabs_11s\set2_pong_project\TheGame.java
